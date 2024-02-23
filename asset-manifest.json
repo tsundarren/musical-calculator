@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/musical-calculator/static/css/main.7c33b276.css",
+    "main.js": "/musical-calculator/static/js/main.c0114a1a.js",
+    "static/js/787.4d67f5f4.chunk.js": "/musical-calculator/static/js/787.4d67f5f4.chunk.js",
+    "static/media/clear.mp3": "/musical-calculator/static/media/clear.8aee37b9e723ff40707e.mp3",
+    "static/media/invert.mp3": "/musical-calculator/static/media/invert.763278b4bc240cc93e28.mp3",
+    "static/media/three.mp3": "/musical-calculator/static/media/three.0402a205026be1b7ff10.mp3",
+    "static/media/decimal.mp3": "/musical-calculator/static/media/decimal.6887898e7c42d8b590dc.mp3",
+    "static/media/div.mp3": "/musical-calculator/static/media/div.ac16f5e21077a410646f.mp3",
+    "static/media/eight.mp3": "/musical-calculator/static/media/eight.67f3d2b58db7a75fec60.mp3",
+    "static/media/equals.mp3": "/musical-calculator/static/media/equals.a2cc2cf59ef96d15d075.mp3",
+    "static/media/five.mp3": "/musical-calculator/static/media/five.d90b5485f149a13a601d.mp3",
+    "static/media/four.mp3": "/musical-calculator/static/media/four.eef4047cb872fd618e75.mp3",
+    "static/media/minus.mp3": "/musical-calculator/static/media/minus.2f4c02be3cf215b2f0c5.mp3",
+    "static/media/mult.mp3": "/musical-calculator/static/media/mult.4c9d22f5fee87ecbdcee.mp3",
+    "static/media/nine.mp3": "/musical-calculator/static/media/nine.cd503cd3ec578ca85a0d.mp3",
+    "static/media/one.mp3": "/musical-calculator/static/media/one.3f7962d527b8ec804016.mp3",
+    "static/media/percent.mp3": "/musical-calculator/static/media/percent.3979f430fdce4d2feb1e.mp3",
+    "static/media/plus.mp3": "/musical-calculator/static/media/plus.2d701cb177015a89c7f5.mp3",
+    "static/media/seven.mp3": "/musical-calculator/static/media/seven.58bfaa2898dc113cf3b4.mp3",
+    "static/media/six.mp3": "/musical-calculator/static/media/six.dfec484d69394c0eb6ef.mp3",
+    "static/media/two.mp3": "/musical-calculator/static/media/two.d2f5dfcc687b9a3bfff4.mp3",
+    "static/media/zero.mp3": "/musical-calculator/static/media/zero.efad6fe053ba9d92342e.mp3",
+    "index.html": "/musical-calculator/index.html",
+    "main.7c33b276.css.map": "/musical-calculator/static/css/main.7c33b276.css.map",
+    "main.c0114a1a.js.map": "/musical-calculator/static/js/main.c0114a1a.js.map",
+    "787.4d67f5f4.chunk.js.map": "/musical-calculator/static/js/787.4d67f5f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c33b276.css",
+    "static/js/main.c0114a1a.js"
+  ]
+}

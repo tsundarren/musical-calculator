@@ -10,6 +10,8 @@
 
 ## 🔗 Live Demo
 
+![Musical Calculator Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa205aXJxMjE1NW9naTV4dWdyNmg4bjZmOTkzaHpoNnQyanozbW9kZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZRA6lY2rRpIxi6wbs/giphy.gif)
+
 [Try it here!](https://tsundarren.github.io/musical-calculator/)
 
 ## ℹ️ Overview

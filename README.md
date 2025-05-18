@@ -4,13 +4,13 @@
 
 ## 🌟 Highlights
 
-- 🎵 Inspired by the AR-7778 musical calculator, play musical tones on button activation!
-- 🎹 Keyboard and click interactive
-- 🔁 Global state managed cleanly with React Context API
+- Inspired by the AR-7778 musical calculator, play musical tones on button activation!
+- Keyboard and click interactive
+- Global state managed cleanly with React Context API
 
 ## 🔗 Live Demo
 
-👉 [Try it here!](https://tsundarren.github.io/musical-calculator/)
+[Try it here!](https://tsundarren.github.io/musical-calculator/)
 
 ## ℹ️ Overview
 
